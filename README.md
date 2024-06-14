@@ -12,7 +12,7 @@ This is a simple Tetris game implemented in C++ using the Raylib library, follow
 
 ## Implementation Details
 
-The project uses the [Raylib C++ Starter Template](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE) for Visual Studio Code on Windows. It works with Raylib version 4.5 and has been tested on both Windows 10 and Windows 11.
+The project uses the [Raylib C++ Starter Template](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2) for Visual Studio Code on Windows. It works with Raylib version 4.5 and has been tested on both Windows 10 and Windows 11.
 
 The project is organized into the following files:
 
